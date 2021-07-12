@@ -1,6 +1,7 @@
 name: avecmrjob
 channels:
   - defaults
+  - conda-forge
 dependencies:
   - jupyterlab
   - mrjob
